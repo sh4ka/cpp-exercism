@@ -1,0 +1,4 @@
+/Users/jesusflores/Exercism/cpp/interest-is-interesting/cmake-build-debug/CMakeFiles/interest-is-interesting.dir
+/Users/jesusflores/Exercism/cpp/interest-is-interesting/cmake-build-debug/CMakeFiles/test_interest-is-interesting.dir
+/Users/jesusflores/Exercism/cpp/interest-is-interesting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jesusflores/Exercism/cpp/interest-is-interesting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/Users/jesusflores/Exercism/cpp/lasagna/cmake-build-debug/CMakeFiles/lasagna.dir
+/Users/jesusflores/Exercism/cpp/lasagna/cmake-build-debug/CMakeFiles/test_lasagna.dir
+/Users/jesusflores/Exercism/cpp/lasagna/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jesusflores/Exercism/cpp/lasagna/cmake-build-debug/CMakeFiles/rebuild_cache.dir

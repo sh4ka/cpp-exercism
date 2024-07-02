@@ -1,0 +1,4 @@
+/Users/jesusflores/Exercism/cpp/log-levels/cmake-build-debug/CMakeFiles/log-levels.dir
+/Users/jesusflores/Exercism/cpp/log-levels/cmake-build-debug/CMakeFiles/test_log-levels.dir
+/Users/jesusflores/Exercism/cpp/log-levels/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jesusflores/Exercism/cpp/log-levels/cmake-build-debug/CMakeFiles/rebuild_cache.dir

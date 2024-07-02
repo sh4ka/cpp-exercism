@@ -1,0 +1,4 @@
+/Users/jesusflores/Exercism/cpp/ellens-alien-game/cmake-build-debug/CMakeFiles/ellens-alien-game.dir
+/Users/jesusflores/Exercism/cpp/ellens-alien-game/cmake-build-debug/CMakeFiles/test_ellens-alien-game.dir
+/Users/jesusflores/Exercism/cpp/ellens-alien-game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jesusflores/Exercism/cpp/ellens-alien-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

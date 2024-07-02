@@ -1,0 +1,4 @@
+/Users/jesusflores/Exercism/cpp/making-the-grade/cmake-build-debug/CMakeFiles/making-the-grade.dir
+/Users/jesusflores/Exercism/cpp/making-the-grade/cmake-build-debug/CMakeFiles/test_making-the-grade.dir
+/Users/jesusflores/Exercism/cpp/making-the-grade/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jesusflores/Exercism/cpp/making-the-grade/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+# ninja log v5
+1	323	1718542930474171809	CMakeFiles/election-day.dir/election_day_test.cpp.o	78f7e662c5a1ed60
+1	2232	1718542932376502841	CMakeFiles/election-day.dir/test/tests-main.cpp.o	b1cb0852ae6de779
+2232	2271	1718542932420190416	election-day	496b3f41ece9cfb3
+6	299	1718542944470991479	CMakeFiles/election-day.dir/election_day_test.cpp.o	78f7e662c5a1ed60
+299	332	1718542944505647881	election-day	496b3f41ece9cfb3
+8	349	1718548007332650506	CMakeFiles/election-day.dir/election_day_test.cpp.o	78f7e662c5a1ed60
+349	398	1718548007379172492	election-day	496b3f41ece9cfb3
+7	298	1718548017180882706	CMakeFiles/election-day.dir/election_day_test.cpp.o	78f7e662c5a1ed60
+298	334	1718548017216340122	election-day	496b3f41ece9cfb3
+6	359	1718554737639888125	CMakeFiles/election-day.dir/election_day_test.cpp.o	78f7e662c5a1ed60
+359	469	1718554737746893436	election-day	496b3f41ece9cfb3
+7	352	1718555636453589583	CMakeFiles/election-day.dir/election_day_test.cpp.o	78f7e662c5a1ed60
+352	400	1718555636498732115	election-day	496b3f41ece9cfb3
+7	338	1718555682952790104	CMakeFiles/election-day.dir/election_day_test.cpp.o	78f7e662c5a1ed60
+338	387	1718555682999910469	election-day	496b3f41ece9cfb3

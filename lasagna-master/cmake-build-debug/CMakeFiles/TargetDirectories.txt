@@ -1,0 +1,4 @@
+/Users/jesusflores/CLionProjects/Exercism/cpp/lasagna-master/cmake-build-debug/CMakeFiles/lasagna-master.dir
+/Users/jesusflores/CLionProjects/Exercism/cpp/lasagna-master/cmake-build-debug/CMakeFiles/test_lasagna-master.dir
+/Users/jesusflores/CLionProjects/Exercism/cpp/lasagna-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jesusflores/CLionProjects/Exercism/cpp/lasagna-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

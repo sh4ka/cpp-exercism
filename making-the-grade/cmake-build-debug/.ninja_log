@@ -1,0 +1,26 @@
+# ninja log v5
+1	333	1718524270130602475	CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o	40ee3e9a9f44fc12
+1	2183	1718524271975088008	CMakeFiles/making-the-grade.dir/test/tests-main.cpp.o	c556b4fcc38c89f8
+2184	2221	1718524272016664904	making-the-grade	3aaf02b82656a1b6
+6	339	1718524383495645852	CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o	40ee3e9a9f44fc12
+339	372	1718524383530286862	making-the-grade	3aaf02b82656a1b6
+7	382	1718524404683137118	CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o	40ee3e9a9f44fc12
+382	429	1718524404727044601	making-the-grade	3aaf02b82656a1b6
+6	398	1718524522320603401	CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o	40ee3e9a9f44fc12
+398	443	1718524522363485299	making-the-grade	3aaf02b82656a1b6
+7	339	1718524532497022134	CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o	40ee3e9a9f44fc12
+339	374	1718524532531582728	making-the-grade	3aaf02b82656a1b6
+8	377	1718531257679560586	CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o	40ee3e9a9f44fc12
+377	423	1718531257725792362	making-the-grade	3aaf02b82656a1b6
+7	382	1718531299692114334	CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o	40ee3e9a9f44fc12
+382	419	1718531299729262596	making-the-grade	3aaf02b82656a1b6
+6	373	1718532211450258522	CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o	40ee3e9a9f44fc12
+373	474	1718532211554513205	making-the-grade	3aaf02b82656a1b6
+16	381	1718532267827379150	CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o	40ee3e9a9f44fc12
+381	419	1718532267863450643	making-the-grade	3aaf02b82656a1b6
+7	412	1718532970849633447	CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o	40ee3e9a9f44fc12
+412	462	1718532970898110598	making-the-grade	3aaf02b82656a1b6
+7	422	1718533236622662630	CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o	40ee3e9a9f44fc12
+422	470	1718533236669384762	making-the-grade	3aaf02b82656a1b6
+6	412	1718533423726042995	CMakeFiles/making-the-grade.dir/making_the_grade_test.cpp.o	40ee3e9a9f44fc12
+412	457	1718533423769896096	making-the-grade	3aaf02b82656a1b6

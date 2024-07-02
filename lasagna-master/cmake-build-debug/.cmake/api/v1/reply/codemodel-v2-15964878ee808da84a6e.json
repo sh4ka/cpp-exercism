@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lasagna-master",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lasagna-master::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lasagna-master-Debug-aeabaa3d4ca1a2514753.json",
+					"name" : "lasagna-master",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_lasagna-master::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_lasagna-master-Debug-78dd318570d61257f856.json",
+					"name" : "test_lasagna-master",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jesusflores/CLionProjects/Exercism/cpp/lasagna-master/cmake-build-debug",
+		"source" : "/Users/jesusflores/CLionProjects/Exercism/cpp/lasagna-master"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,8 @@
+# ninja log v5
+0	330	1718390475338230090	CMakeFiles/vehicle-purchase.dir/vehicle_purchase_test.cpp.o	91d0ba2940bbcddc
+1	2208	1718390477208540010	CMakeFiles/vehicle-purchase.dir/test/tests-main.cpp.o	cde37388b25179d3
+7	346	1718390911413361375	CMakeFiles/vehicle-purchase.dir/vehicle_purchase_test.cpp.o	91d0ba2940bbcddc
+6	184	1718391183144114086	CMakeFiles/vehicle-purchase.dir/vehicle_purchase.cpp.o	5373d3537391cf39
+184	229	1718391183187069819	vehicle-purchase	302cb1fe0ee6398b
+7	186	1718391227113955697	CMakeFiles/vehicle-purchase.dir/vehicle_purchase.cpp.o	5373d3537391cf39
+186	217	1718391227147170765	vehicle-purchase	302cb1fe0ee6398b

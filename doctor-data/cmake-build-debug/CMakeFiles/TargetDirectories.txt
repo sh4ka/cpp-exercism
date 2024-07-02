@@ -1,0 +1,4 @@
+/Users/jesusflores/CLionProjects/Exercism/cpp/doctor-data/cmake-build-debug/CMakeFiles/doctor-data.dir
+/Users/jesusflores/CLionProjects/Exercism/cpp/doctor-data/cmake-build-debug/CMakeFiles/test_doctor-data.dir
+/Users/jesusflores/CLionProjects/Exercism/cpp/doctor-data/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jesusflores/CLionProjects/Exercism/cpp/doctor-data/cmake-build-debug/CMakeFiles/rebuild_cache.dir

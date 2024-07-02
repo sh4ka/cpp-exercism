@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ellens-alien-game",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ellens-alien-game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ellens-alien-game-Debug-1ef213ae0b8358391f82.json",
+					"name" : "ellens-alien-game",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_ellens-alien-game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_ellens-alien-game-Debug-0c7947036b1a25885acb.json",
+					"name" : "test_ellens-alien-game",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jesusflores/Exercism/cpp/ellens-alien-game/cmake-build-debug",
+		"source" : "/Users/jesusflores/Exercism/cpp/ellens-alien-game"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

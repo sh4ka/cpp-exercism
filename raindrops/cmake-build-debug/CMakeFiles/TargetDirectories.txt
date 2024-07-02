@@ -1,0 +1,4 @@
+/Users/jesusflores/Exercism/cpp/raindrops/cmake-build-debug/CMakeFiles/raindrops.dir
+/Users/jesusflores/Exercism/cpp/raindrops/cmake-build-debug/CMakeFiles/test_raindrops.dir
+/Users/jesusflores/Exercism/cpp/raindrops/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jesusflores/Exercism/cpp/raindrops/cmake-build-debug/CMakeFiles/rebuild_cache.dir

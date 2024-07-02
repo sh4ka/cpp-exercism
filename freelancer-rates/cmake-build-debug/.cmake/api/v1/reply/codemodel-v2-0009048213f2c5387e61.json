@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "freelancer-rates",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "freelancer-rates::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-freelancer-rates-Debug-d9305fc29a8a5adabfb5.json",
+					"name" : "freelancer-rates",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_freelancer-rates::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_freelancer-rates-Debug-6cf735b4c91747675463.json",
+					"name" : "test_freelancer-rates",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jesusflores/Exercism/cpp/freelancer-rates/cmake-build-debug",
+		"source" : "/Users/jesusflores/Exercism/cpp/freelancer-rates"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

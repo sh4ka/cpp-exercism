@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "interest-is-interesting",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "interest-is-interesting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interest-is-interesting-Debug-2d6a36bac2d4791cbad0.json",
+					"name" : "interest-is-interesting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_interest-is-interesting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_interest-is-interesting-Debug-26a8f1315c09659574c4.json",
+					"name" : "test_interest-is-interesting",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jesusflores/Exercism/cpp/interest-is-interesting/cmake-build-debug",
+		"source" : "/Users/jesusflores/Exercism/cpp/interest-is-interesting"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

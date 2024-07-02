@@ -1,0 +1,4 @@
+/Users/jesusflores/Exercism/cpp/election-day/cmake-build-debug/CMakeFiles/election-day.dir
+/Users/jesusflores/Exercism/cpp/election-day/cmake-build-debug/CMakeFiles/test_election-day.dir
+/Users/jesusflores/Exercism/cpp/election-day/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jesusflores/Exercism/cpp/election-day/cmake-build-debug/CMakeFiles/rebuild_cache.dir

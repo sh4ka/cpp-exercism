@@ -1,0 +1,4 @@
+/Users/jesusflores/Exercism/cpp/vehicle-purchase/cmake-build-debug/CMakeFiles/vehicle-purchase.dir
+/Users/jesusflores/Exercism/cpp/vehicle-purchase/cmake-build-debug/CMakeFiles/test_vehicle-purchase.dir
+/Users/jesusflores/Exercism/cpp/vehicle-purchase/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jesusflores/Exercism/cpp/vehicle-purchase/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/Users/jesusflores/Exercism/cpp/pacman-rules/cmake-build-debug/CMakeFiles/pacman-rules.dir
+/Users/jesusflores/Exercism/cpp/pacman-rules/cmake-build-debug/CMakeFiles/test_pacman-rules.dir
+/Users/jesusflores/Exercism/cpp/pacman-rules/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jesusflores/Exercism/cpp/pacman-rules/cmake-build-debug/CMakeFiles/rebuild_cache.dir

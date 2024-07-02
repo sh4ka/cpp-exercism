@@ -1,0 +1,17 @@
+# ninja log v5
+2	2665	1719842540492919816	CMakeFiles/doctor-data.dir/test/tests-main.cpp.o	9111b8acf22d6a30
+15	40	1719842583591445364	CMakeFiles/doctor-data.dir/doctor_data.cpp.o	ebac5cfde06ba98b
+7	334	1719847799153648830	CMakeFiles/doctor-data.dir/doctor_data_test.cpp.o	90d4fc60e41b84b0
+334	438	1719847799255588226	doctor-data	ef77ce1f811aff52
+7	181	1719849428804878087	CMakeFiles/doctor-data.dir/doctor_data.cpp.o	ebac5cfde06ba98b
+8	319	1719849671637379522	CMakeFiles/doctor-data.dir/doctor_data_test.cpp.o	90d4fc60e41b84b0
+7	180	1719849687798399434	CMakeFiles/doctor-data.dir/doctor_data.cpp.o	ebac5cfde06ba98b
+180	288	1719849687906489508	doctor-data	ef77ce1f811aff52
+7	179	1719850232322707460	CMakeFiles/doctor-data.dir/doctor_data.cpp.o	ebac5cfde06ba98b
+7	324	1719850232466662010	CMakeFiles/doctor-data.dir/doctor_data_test.cpp.o	90d4fc60e41b84b0
+324	369	1719850232510089620	doctor-data	ef77ce1f811aff52
+8	190	1719851711449316973	CMakeFiles/doctor-data.dir/doctor_data.cpp.o	ebac5cfde06ba98b
+8	322	1719851711579118883	CMakeFiles/doctor-data.dir/doctor_data_test.cpp.o	90d4fc60e41b84b0
+322	368	1719851711624682893	doctor-data	ef77ce1f811aff52
+10	191	1719852014628109242	CMakeFiles/doctor-data.dir/doctor_data.cpp.o	ebac5cfde06ba98b
+191	236	1719852014671347462	doctor-data	ef77ce1f811aff52
